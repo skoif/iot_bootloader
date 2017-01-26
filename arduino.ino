@@ -3,7 +3,7 @@
 #include <EEPROM.h>
 #include <ESP8266Ping.h>
 ESP8266WebServer server(80);
-SocketIOClient client;
+//SocketIOClient client;
 /*  PINS  */
 #define led_green 12
 #define led_red 15
